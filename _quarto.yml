@@ -3,12 +3,12 @@ project:
   output-dir: _book
 
 book:
-  title: "Modern Authoring Template"
-  author: "Technical Creator"
+  title: "Automated Author Test Run"
+  author: "Daniel Duvernais"
   chapters:
     - index.qmd
-    - introduction.qmd
-    - workflow-deepdive.qmd
+    - database-fundamentals.qmd
+    - system-normalization.qmd
   appendices:
     - appendix-telemetry.qmd
 
