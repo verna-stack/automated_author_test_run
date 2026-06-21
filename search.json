@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Automated Author Test Run",
+    "section": "",
+    "text": "1 Architectural Deep Dives",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#sec-telemetry-metrics",
+    "href": "index.html#sec-telemetry-metrics",
+    "title": "Automated Author Test Run",
+    "section": "1.1 Real-Time System Telemetry",
+    "text": "1.1 Real-Time System Telemetry\nBelow is a live-rendered visualization tracing our pipeline performance matrix. This vector chart is generated dynamically from mathematical loops during compilation.\nimport matplotlib.pyplot as plt # System data coordinates chapters = [1, 2, 3, 4, 5, 6, 7] latency_ms = [45, 62, 110, 145, 230, 410, 490] plt.show()",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#algorithmic-foundation-nodes",
+    "href": "index.html#algorithmic-foundation-nodes",
+    "title": "Automated Author Test Run",
+    "section": "3.1 Algorithmic Foundation Nodes",
+    "text": "3.1 Algorithmic Foundation Nodes\nThe core behavioral model of our automated optimization engine relies on a standard loss evaluation sequence. When computing localized drift dynamically within a sentence, we track the basic variance variable as \\(J(\\theta)\\).\nHowever, when calculating the complete multi-dimensional error optimization across the entire matrix system, we deploy the full cost optimization formula:\n\\[J(\\theta) = \\frac{1}{2m} \\sum_{i=1}^{m} \\left( h_\\theta(x^{(i)}) - y^{(i)} \\right)^2\\] ### Matrix Reduction Progression\nWe track the step-by-step reduction behavior of our optimization matrices through the following progression:\n\\[\\begin{align}\nf(x, y) &= (x + y)^2 \\\\\n        &= x^2 + 2xy + y^2 \\\\\n        &= \\nabla f(x,y)\n\\end{align}\\]\n\n3.1.1 Pipeline Analytical Inferences",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#provenance-and-precedent",
+    "href": "index.html#provenance-and-precedent",
+    "title": "Automated Author Test Run",
+    "section": "3.2 Provenance and Precedent",
+    "text": "3.2 Provenance and Precedent\nThe core operational design of our containerized compile pipeline follows the strict industry standards of continuous integration. As explicitly demonstrated in the foundational research on modern software typography (Stack and Rabbit 2026), moving the build layer completely off local host systems limits deployment exceptions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#algorithmic-foundation-nodes-1",
+    "href": "index.html#algorithmic-foundation-nodes-1",
+    "title": "Automated Author Test Run",
+    "section": "3.3 Algorithmic Foundation Nodes",
+    "text": "3.3 Algorithmic Foundation Nodes\nThe core behavioral model of our automated optimization engine relies on a standard loss evaluation sequence. When computing localized drift dynamically within a sentence, we track the basic variance variable as \\(J(\\theta)\\).\nHowever, when calculating the complete multi-dimensional error optimization across the entire matrix system, we deploy the full cost optimization formula:\n\\[J(\\theta) = \\frac{1}{2m} \\sum_{i=1}^{m} \\left( h_\\theta(x^{(i)}) - y^{(i)} \\right)^2\\]\n\n3.3.1 Matrix Reduction Progression\nWe track the step-by-step reduction behavior of our optimization matrices through the following progression:\n\\[\\begin{align}\nf(x, y) &= (x + y)^2 \\\\\n        &= x^2 + 2xy + y^2 \\\\\n        &= \\nabla f(x,y)\n\\end{align}\\]\n#| echo: false import os import sys",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#provenance-and-precedent-1",
+    "href": "index.html#provenance-and-precedent-1",
+    "title": "Automated Author Test Run",
+    "section": "4.1 Provenance and Precedent",
+    "text": "4.1 Provenance and Precedent\nThe core operational design of our containerized compile pipeline follows the strict industry standards of continuous integration. As explicitly demonstrated in the foundational research on modern software typography (Stack and Rabbit 2026), moving the build layer completely off local host systems limits deployment exceptions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#provenance-and-precedent-2",
+    "href": "index.html#provenance-and-precedent-2",
+    "title": "Automated Author Test Run",
+    "section": "4.2 Provenance and Precedent",
+    "text": "4.2 Provenance and Precedent\nThe core operational design of our containerized compile pipeline follows the strict industry standards of continuous integration. As explicitly demonstrated in the foundational research on modern software typography (Stack and Rabbit 2026), moving the build layer completely off local host systems limits deployment exceptions.\n\n\n\n\nStack, Verna, and Video Rabbit. 2026. “Continuous Publishing Ecosystems for Plaintext Authors.” Journal of Automated Software Typography 14 (2): 112–28. https://pipeline.internal/precision-publishing.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Architectural Deep Dives</span>"
+    ]
+  },
+  {
+    "objectID": "database-fundamentals.html",
+    "href": "database-fundamentals.html",
+    "title": "2  Database Fundamentals",
+    "section": "",
+    "text": "Figure 2.1: Pipeline Compilation Latency Scaling Curve",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Database Fundamentals</span>"
+    ]
+  },
+  {
+    "objectID": "appendix-telemetry.html",
+    "href": "appendix-telemetry.html",
+    "title": "Appendix A — Extended System Telemetry Logs",
+    "section": "",
+    "text": "This sheet contains the raw hardware tracking logs and system latency datasets generated during compilation testing.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Extended System Telemetry Logs</span>"
+    ]
+  }
+]

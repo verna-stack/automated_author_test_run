@@ -1,3 +1,0 @@
-# Extended System Telemetry Logs {#sec-appendix-logs}
-
-This sheet contains the raw hardware tracking logs and system latency datasets generated during compilation testing.
